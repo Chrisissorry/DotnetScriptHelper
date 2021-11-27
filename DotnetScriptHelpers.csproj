@@ -5,6 +5,7 @@
     <PackageId>DotnetScriptHelpers</PackageId>
     <Version>1.0.0</Version>
     <Authors>chrisissorry</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
   
   
